@@ -1,0 +1,5 @@
+[28944:19404:0401/220558.010:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28944:19404:0401/220558.086:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23324:18960:0401/220601.368:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CB8C577F22A78417E5581337FE944795 will be ignored
+[28944:19404:0401/220605.777:ERROR:device_event_log_impl.cc(196)] [22:06:05.730] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[19524:32228:0401/220618.930:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
