@@ -1,0 +1,42 @@
+[26600:26916:0517/163348.054:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26600:26916:0517/163348.402:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26600:26916:0517/163358.210:ERROR:device_event_log_impl.cc(196)] [16:33:58.179] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[12128:17264:0517/163402.216:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A0345064915C1509D279D2ACB560DF2F will be ignored
+[26600:28076:0517/163403.186:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[26600:26916:0517/163403.432:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[26600:26916:0517/163403.432:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[26600:26916:0517/163403.432:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[26600:26916:0517/163403.432:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[26600:28076:0517/163403.435:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[30228:30924:0517/163405.436:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30228:30924:0517/163406.035:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30228:30928:0517/163406.051:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30228:30928:0517/163406.052:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30228:30928:0517/163406.052:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27520:5068:0517/163406.072:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[27520:5068:0517/163406.075:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[27520:5068:0517/163406.075:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[27520:5068:0517/163406.075:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[30228:30928:0517/163406.076:WARNING:stun_port.cc(442)] Port[2647800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[30228:30928:0517/163406.076:WARNING:stun_port.cc(442)] Port[4770800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[30228:30928:0517/163406.076:WARNING:stun_port.cc(442)] Port[4771000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[26600:26916:0517/163518.738:ERROR:device_event_log_impl.cc(196)] [16:35:18.738] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[26600:28076:0517/163611.191:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[26600:26916:0517/163611.299:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[26600:26916:0517/163611.299:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[26600:26916:0517/163611.299:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[26600:26916:0517/163611.299:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[29932:31984:0517/163613.303:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29932:31984:0517/163613.312:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29932:12216:0517/163613.318:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29932:12216:0517/163613.318:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29932:12216:0517/163613.319:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27520:5068:0517/163613.340:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[27520:5068:0517/163613.340:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[27520:5068:0517/163613.340:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[27520:5068:0517/163613.340:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[29932:12216:0517/163613.340:WARNING:stun_port.cc(442)] Port[4c12c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[29932:12216:0517/163613.340:WARNING:stun_port.cc(442)] Port[4c8c000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[29932:12216:0517/163613.340:WARNING:stun_port.cc(442)] Port[4c8c400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[15160:29240:0517/163820.101:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[26600:26916:0517/170327.038:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,38 @@
+[32668:448:0517/174457.757:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[32668:448:0517/174457.817:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[32668:448:0517/174507.324:ERROR:device_event_log_impl.cc(196)] [17:45:07.133] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[28856:20132:0517/174507.404:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-02C552364AA0CC976D511D7C995335E6 will be ignored
+[32668:27708:0517/174509.823:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[32668:448:0517/174510.102:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[32668:448:0517/174510.103:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[32668:448:0517/174510.103:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[32668:448:0517/174510.103:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[32668:27708:0517/174510.106:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[33828:29180:0517/174513.291:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[33828:29180:0517/174513.783:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[33828:18932:0517/174513.790:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[33828:18932:0517/174513.790:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[33828:18932:0517/174513.791:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24904:6500:0517/174513.810:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[24904:6500:0517/174513.811:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[24904:6500:0517/174513.811:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[24904:6500:0517/174513.811:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[33828:18932:0517/174513.811:WARNING:stun_port.cc(442)] Port[4982800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[33828:18932:0517/174513.811:WARNING:stun_port.cc(442)] Port[50e8c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[33828:18932:0517/174513.811:WARNING:stun_port.cc(442)] Port[50e8400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[24904:6500:0517/174527.005:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24904:6500:0517/174546.100:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[34032:22864:0517/174717.851:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[24904:6500:0517/174801.724:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24904:6500:0517/174820.845:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24904:6500:0517/175045.387:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24904:6500:0517/175104.489:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24904:6500:0517/175316.695:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24904:6500:0517/175335.809:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24904:6500:0517/175615.542:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24904:6500:0517/175634.643:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24904:6500:0517/175907.200:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24904:6500:0517/175926.338:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24904:6500:0517/180203.693:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24904:6500:0517/180222.767:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[32668:448:0517/180331.585:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
