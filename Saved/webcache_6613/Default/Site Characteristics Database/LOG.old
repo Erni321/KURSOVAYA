@@ -1,3 +1,5 @@
-2026/04/01-22:05:58.092 78d4 Reusing MANIFEST D:\KURSOVAYA 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/04/01-22:05:58.092 78d4 Recovering log #3
-2026/04/01-22:05:58.092 78d4 Reusing old log D:\KURSOVAYA 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/05/17-00:20:56.354 8768 Log #3: 2 ops saved to Table #4 OK
+2026/05/17-00:20:56.355 8768 Archiving D:\KURSOVAYA\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/05/17-00:20:56.356 8768 Table #4: 2 entries OK
+2026/05/17-00:20:56.356 8768 Archiving D:\KURSOVAYA\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/05/17-00:20:56.358 8768 **** Repaired leveldb D:\KURSOVAYA\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
